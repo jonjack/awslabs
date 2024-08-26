@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Cognito"
-  text: "Cognito solutions
+  text: "Cognito solutions"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -16,5 +16,6 @@ hero:
 features:
   - title: Merging Cognito profiles
     details: Mapping native and social logins to a single user
+    
 ---
 
