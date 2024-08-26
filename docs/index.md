@@ -4,22 +4,12 @@ layout: home
 
 hero:
   name: "AWS Labs"
-  text: "A random collection of AWS architectures "
-  tagline: My great project tagline
+  text: "A random collection of AWS architectures"
+  tagline: Documenting my journey learning AWS
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Cognito
+      link: /cognito/index.md
+      
 ---
 
